@@ -1,0 +1,2 @@
+1153, Plates, Crockery, 1, 11, 1000.0
+1530, Bulb, Electrical, 13, 12, 25.0

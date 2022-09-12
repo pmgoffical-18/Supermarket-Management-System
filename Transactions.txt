@@ -1,0 +1,3 @@
+8426, Sat Dec 11 17:17:18 IST 2021, abc, 1234567889, Plates, 1, 1000.0, 1000.0, No discount availed!
+8608, Sat Dec 11 18:18:40 IST 2021, Fatima Jafari, 9123456690, Bulb, 2, 50.0, Plates, 2, 2000.0, 2050.0, Rs. 200 cashback
+8707, Sat Dec 11 21:10:01 IST 2021, Aaron De Sousa, 9011234566, Plates, 3, 3000.0, Bulb, 1, 25.0, 3025.0, No discount availed!, 
